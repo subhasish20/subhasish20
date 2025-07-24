@@ -26,5 +26,4 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subhasish20&hide_progress=true)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subhasish20&" alt="subhasish20" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=subhasish20)](https://git.io/streak-stats)
