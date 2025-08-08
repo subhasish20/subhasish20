@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **C, C++, Python, Machine Learning.**
 
-- ☎️ My resume <a href="https://www.dropbox.com/scl/fi/vukcg8fwd5up1k4i0nrak/Subhasish-Jena.pdf?rlkey=yk9tqtpt1zj1jzr9w1xb13r6y&st=g6uvzd8w&dl=0" target="blank">Link </a>
+<!--- ☎️ My resume <a href="https://www.dropbox.com/scl/fi/vukcg8fwd5up1k4i0nrak/Subhasish-Jena.pdf?rlkey=yk9tqtpt1zj1jzr9w1xb13r6y&st=g6uvzd8w&dl=0" target="blank">Link </a>-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
