@@ -8,7 +8,7 @@
 - 🤝 I’m looking for help with **GenAI**
 
 - 💬 Ask me about **C, C++, Python, Machine Learning.**
-- Mail :- subhasishjena@gmail.com
+- Mail :- subhasishjena8280@gmail.com
 
 <!--- ☎️ My resume <a href="https://www.dropbox.com/scl/fi/vukcg8fwd5up1k4i0nrak/Subhasish-Jena.pdf?rlkey=yk9tqtpt1zj1jzr9w1xb13r6y&st=g6uvzd8w&dl=0" target="blank">Link </a>-->
 
