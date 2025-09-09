@@ -8,6 +8,7 @@
 - 🤝 I’m looking for help with **GenAI**
 
 - 💬 Ask me about **C, C++, Python, Machine Learning.**
+- Mail :- subhasishjena@gmail.com
 
 <!--- ☎️ My resume <a href="https://www.dropbox.com/scl/fi/vukcg8fwd5up1k4i0nrak/Subhasish-Jena.pdf?rlkey=yk9tqtpt1zj1jzr9w1xb13r6y&st=g6uvzd8w&dl=0" target="blank">Link </a>-->
 
@@ -15,7 +16,6 @@
 <p align="left"> 
 <a href="https://twitter.com/@jenasubhasish1tt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@jenasubhasish1tt" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jena-subhasish-290702270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jena-subhasish-290702270" height="30" width="40" /></a>
-<a href="https://kaggle.com/jenasubhasish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jenasubhasish" height="30" width="40" /></a>
 <a href="https://instagram.com/bapuuuniiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bapuuuniiii" height="30" width="40" /></a>
 </p>
 
