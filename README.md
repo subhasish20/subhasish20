@@ -30,27 +30,59 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+  </a>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
+
+  <a href="https://www.anaconda.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo" />
+  </a>
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="30" alt="c logo"  />
+
+  <a href="https://en.cppreference.com/w/c" target="_blank">
+    <img src="https://cdn.simpleicons.org/c/A8B9CC" height="30" alt="c logo" />
+  </a>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
+  </a>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
+
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo" />
+  </a>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
+
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo" />
+  </a>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
+
+  <a href="https://pytorch.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo" />
+  </a>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
+
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo" />
+  </a>
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
+
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo" />
+  </a>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
+
+  <a href="https://jupyter.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo" />
+  </a>
 </div>
 <br>
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subhasish20&show_icons=true&locale=en" alt="subhasish20" /></p>-->
