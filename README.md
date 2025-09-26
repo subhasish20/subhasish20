@@ -52,9 +52,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
 </div>
+<br>
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subhasish20&show_icons=true&locale=en" alt="subhasish20" /></p>-->
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subhasish20&hide_progress=true)
+
+<br>
 
 [![subhasish20](https://streak-stats.demolab.com/?user=subhasish20)](https://git.io/streak-stats)
