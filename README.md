@@ -11,7 +11,21 @@
 
 - 🤝 I’m looking for help with **GenAI**
 
-- 💬 Ask me about **C, C++, Python, Machine Learning.** 
+- 💬 Ask me about **C, C++, Python, Machine Learning.**
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" 
+     alt="animated gif" 
+     width="300" 
+     align="right" />
+
+<ul>
+  <li>🌱 I’m currently learning <strong>GenerativeAI using LangChain</strong></li>
+  <li>👯 I’m looking to collaborate on <strong>Machine Learning</strong></li>
+  <li>🤝 I’m looking for help with <strong>GenAI</strong></li>
+  <li>💬 Ask me about <strong>C, C++, Python, Machine Learning</strong></li>
+</ul>
+
+<div style="clear: both;"></div>
 
 <!--- ☎️ My resume <a href="https://www.dropbox.com/scl/fi/vukcg8fwd5up1k4i0nrak/Subhasish-Jena.pdf?rlkey=yk9tqtpt1zj1jzr9w1xb13r6y&st=g6uvzd8w&dl=0" target="blank">Link </a>-->
 
