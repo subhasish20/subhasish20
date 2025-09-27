@@ -3,14 +3,16 @@
 
 <table>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="animated gif" width="250"/></td>
-    <td valign="top">
+    <td valign="top" width="60%">
       <ul>
         <li>🌱 I’m currently learning <strong>GenerativeAI using LangChain</strong></li>
         <li>👯 I’m looking to collaborate on <strong>Machine Learning</strong></li>
         <li>🤝 I’m looking for help with <strong>GenAI</strong></li>
         <li>💬 Ask me about <strong>C, C++, Python, Machine Learning.</strong></li>
       </ul>
+    </td>
+    <td valign="top" align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="animated gif" width="320"/>
     </td>
   </tr>
 </table>
