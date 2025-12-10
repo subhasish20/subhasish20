@@ -99,7 +99,6 @@
 
 [![subhasish20](https://streak-stats.demolab.com/?user=subhasish20)](https://git.io/streak-stats)
 <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=subhasish20)](https://github.com/anuraghazra/github-readme-stats)
-<br>
+
 <h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=subhasish20&theme=react-dark"/>
