@@ -99,7 +99,7 @@
 
 [![subhasish20](https://streak-stats.demolab.com/?user=subhasish20)](https://git.io/streak-stats)
 <br>
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/subhasish20/langs)](https://githubtrends.io)
+[![GitHub Trends SVG](api.githubtrends.io)](https://githubtrends.io)
 <br>
 <h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=subhasish20&theme=react-dark"/>
