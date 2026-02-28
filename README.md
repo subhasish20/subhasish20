@@ -90,7 +90,7 @@
   </a>
 </div>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subhasish20&show_icons=true&locale=en" alt="subhasish20" /></p>
+[![Subhasish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=subhasish20&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subhasish20&hide_progress=true)
