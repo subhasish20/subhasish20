@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Subhasish Jena</h1>
-<h3 align="center">AI/ML Engineer | Full Stack Developer | Generative AI</h3>
+<h3 align="center">AI/ML Engineer | GenAI Engineer | Full Stack Developer</h3>
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" 
      alt="animated gif" 
@@ -7,7 +7,7 @@
      align="right" />
 
 <ul>
-  <li>🌱 I’m currently learning <strong>GenerativeAI using LangChain</strong></li>
+  <li>🌱 I’m currently learning <strong>Data Structure and Algorithm</strong></li>
   <li>👯 I’m looking to collaborate on <strong>Machine Learning</strong></li>
   <li>🤝 I’m looking for help with <strong>GenAI</strong></li>
   <li>💬 Ask me about <strong>C, C++, Python, Machine Learning</strong></li>
