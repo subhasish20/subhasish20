@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Subhasish Jena</h1>
+<!-- <h1 align="center">Hi 👋, I'm Subhasish Jena</h1>
 <h3 align="center">AI/ML Engineer | GenAI Engineer | Full Stack Developer</h3>
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" 
@@ -13,8 +13,6 @@
   <li>💬 Ask me about <strong>C, C++, Python, Machine Learning</strong></li>
 </ul>
 <div style="clear: both;"></div>
-
-<!--- ☎️ My resume <a href="https://www.dropbox.com/scl/fi/vukcg8fwd5up1k4i0nrak/Subhasish-Jena.pdf?rlkey=yk9tqtpt1zj1jzr9w1xb13r6y&st=g6uvzd8w&dl=0" target="blank">Link </a>-->
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
@@ -98,4 +96,5 @@
 
 [![subhasish20](https://streak-stats.demolab.com/?user=subhasish20)](https://git.io/streak-stats)
 <br>
-
+-->
+Coding is <b><i>Love</i></b>
