@@ -99,9 +99,5 @@
 -->
  **"Every error is a lesson, every project is an opportunity, and every line of code is a step toward excellence.
  💻🚀✨🏆"** 
-| Top Languages | Stats |
 |---------------|-------|
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=subhasish20&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=subhasish20&theme=github_dark) |
-
- # Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=subhasish20&theme=github_dark)
