@@ -41,86 +41,58 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-
+<div align="left" style="display: flex; flex-wrap: wrap; align-items: center; gap: 12px;">
   <!-- Languages -->
   <a href="https://en.cppreference.com/w/c" target="_blank">
-    <img src="https://cdn.simpleicons.org/c/A8B9CC" height="30" alt="C" />
+    <img src="https://cdn.simpleicons.org/c/A8B9CC" height="32" alt="C" />
   </a>
-  <img width="12" />
-
   <a href="https://isocpp.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="32" alt="C++" />
   </a>
-  <img width="12" />
-
   <a href="https://www.python.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="Python" />
   </a>
-  <img width="12" />
-
   <a href="https://www.java.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32" alt="Java" />
   </a>
-  <img width="20" />
 
-  <!-- Database -->
-<!-- Databases -->
-<a href="https://www.mysql.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="MySQL" />
-</a>
-<img width="12" />
-
-<a href="https://www.postgresql.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="PostgreSQL" />
-</a>
-<img width="12" />
-
-
-</a>
-<img width="12" />
+  <!-- Databases -->
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql" height="32" alt="MySQL" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=postgres" height="32" alt="PostgreSQL" />
+  </a>
 
   <!-- AI / ML -->
   <a href="https://www.anaconda.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="Anaconda" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="32" alt="Anaconda" />
   </a>
-  <img width="12" />
-
   <a href="https://jupyter.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="Jupyter" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="32" alt="Jupyter" />
   </a>
-  <img width="12" />
-
   <a href="https://pytorch.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="PyTorch" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="32" alt="PyTorch" />
   </a>
-  <img width="12" />
-
   <a href="https://www.tensorflow.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="TensorFlow" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="32" alt="TensorFlow" />
   </a>
-  <img width="20" />
 
   <!-- Tools / IDEs -->
   <a href="https://git-scm.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="Git" />
+    <img src="https://cdn.simpleicons.org/git/F05032" height="32" alt="Git" />
   </a>
-  <img width="12" />
-
   <a href="https://www.jetbrains.com/pycharm/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="PyCharm" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="32" alt="PyCharm" />
   </a>
-  <img width="12" />
-
   <a href="https://www.jetbrains.com/idea/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="IntelliJ IDEA" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="32" alt="IntelliJ IDEA" />
   </a>
-  <img width="12" />
 
   <!-- Operating System -->
   <a href="https://www.linux.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="32" alt="Linux" />
   </a>
-
 </div>
 
 <!-- 
