@@ -102,3 +102,4 @@
 
  # Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=subhasish20&theme=github_dark)
+[![Subhasish's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=subhasish20)](https://github.com/subhasish20/github-readme-stats-fast)
