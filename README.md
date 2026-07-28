@@ -99,3 +99,6 @@
 -->
  **"Every error is a lesson, every project is an opportunity, and every line of code is a step toward excellence.
  💻🚀✨🏆"** 
+
+ # Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=subhasish20&theme=github_dark)
