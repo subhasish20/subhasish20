@@ -41,7 +41,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<div align="left" style="display: flex; flex-wrap: wrap; align-items: center; gap: 12px;">
+<div align="left" style="display: flex; flex-wrap: wrap; align-items: center; gap: 20px;">
   <!-- Languages -->
   <a href="https://en.cppreference.com/w/c" target="_blank">
     <img src="https://cdn.simpleicons.org/c/A8B9CC" height="32" alt="C" />
