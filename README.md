@@ -111,7 +111,6 @@
   <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subhasish20&theme=github_dark"/>
 </p>
 -->
-<p align="center">
+
   <img width="44%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=subhasish20&theme=github_dark"/>
   <img width="44%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=subhasish20&theme=github_dark"/>
-</p>
