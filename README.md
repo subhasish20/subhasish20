@@ -112,5 +112,13 @@
 </p>
 -->
 
-  <img width="44%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=subhasish20&theme=github_dark"/>
-  <img width="44%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=subhasish20&theme=github_dark"/>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=subhasish20&theme=github_dark" width="100%">
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=subhasish20&theme=github_dark" width="100%">
+    </td>
+  </tr>
+</table>
