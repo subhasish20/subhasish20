@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Subhasish Jena</h1>
+<h1 align="center">Hello 👋</h1>
 
 <p align="center">
   <b><em>"Every error is a lesson, every project is an opportunity, and every line of code is a step toward excellence."</em></b>
