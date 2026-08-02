@@ -1,5 +1,5 @@
 <h1 align="left">Hello 👋</h1>
-
+<!--
 <p align="center">
   <b><em>"Every error is a lesson, every project is an opportunity, and every line of code is a step toward excellence."</em></b>
 </p>
@@ -21,7 +21,7 @@
 </ul>
 <div style="clear: both;"></div>
 -->
-
+<!--
 <h3 align="left">Connect with me:</h3>
 <div align="left">
   <a href="https://www.instagram.com/bapuuuniiii/" target="_blank">
@@ -73,7 +73,7 @@
 <p align="center">
   <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subhasish20&theme=github_dark"/>
 </p>
--->
+
 
 
 
@@ -82,3 +82,4 @@
   <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=subhasish20&theme=github_dark" />
   <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=subhasish20&theme=github_dark" />
 </p>
+-->
