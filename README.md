@@ -1,5 +1,5 @@
 <h1 align="left">Hello 👋</h1>
-<!--
+
 <p align="center">
   <b><em>"Every error is a lesson, every project is an opportunity, and every line of code is a step toward excellence."</em></b>
 </p>
