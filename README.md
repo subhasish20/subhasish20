@@ -58,13 +58,10 @@
   <a href="https://www.linux.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="32" /></a>
 </p>
 
-<br>
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=subhasish20&theme=github-dark)
 
 
 ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=subhasish20&theme=github_dark)<br>
 
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=subhasish20&theme=github_dark)
-
 
