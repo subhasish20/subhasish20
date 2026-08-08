@@ -21,7 +21,7 @@
 </ul>
 <div style="clear: both;"></div>
 -->
-<!--
+
 <h3 align="left">Connect with me:</h3>
 <div align="left">
   <a href="https://www.instagram.com/bapuuuniiii/" target="_blank">
@@ -58,28 +58,13 @@
   <a href="https://www.linux.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="32" /></a>
 </p>
 
-<!-- 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subhasish20&hide_progress=true)
-
 <br>
 
-[![subhasish20](https://streak-stats.demolab.com/?user=subhasish20)](https://git.io/streak-stats)
-<br>
+![GitHub Streak](https://streak-stats.demolab.com/?user=subhasish20&theme=github-dark)
 
 
-<h3 align="left">📊 GitHub Analytics</h3>
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=subhasish20&theme=github_dark)<br>
 
-<p align="center">
-  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subhasish20&theme=github_dark"/>
-</p>
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=subhasish20&theme=github_dark)
 
 
-
-
-
-<p align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=subhasish20&theme=github_dark" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=subhasish20&theme=github_dark" />
-</p>
--->
