@@ -1,5 +1,5 @@
-<h1 align="left">Hello 👋</h1>
 
+<!--
 <p align="center">
   <b><em>"Every error is a lesson, every project is an opportunity, and every line of code is a step toward excellence."</em></b>
 </p>
@@ -20,7 +20,7 @@
   <li>💬 Ask me about <strong>C, C++, Python, Machine Learning</strong></li>
 </ul>
 <div style="clear: both;"></div>
--->
+
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
@@ -64,6 +64,10 @@
 ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=subhasish20&theme=github_dark)<br>
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=subhasish20&theme=github_dark)
 -->
+
+<p align="center">
+  <img src="./dennis-ritchie-quote.jpeg" alt="Dennis Ritchie programming quote" width="850">
+</p>
 
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=subhasish20&theme=github_dark" alt="Repos per Language" />
