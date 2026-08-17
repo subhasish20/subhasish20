@@ -63,11 +63,12 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=subhasish20&theme=github-dark)
 ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=subhasish20&theme=github_dark)<br>
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=subhasish20&theme=github_dark)
--->
+
 
 <p align="center">
   <img src="./dennis-ritchie-quote.jpeg" alt="Dennis Ritchie programming quote" width="850">
 </p>
+-->
 
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=subhasish20&theme=github_dark" alt="Repos per Language" />
