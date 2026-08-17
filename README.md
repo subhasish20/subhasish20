@@ -1,17 +1,12 @@
-
+<!--
 
 <p align="center">
   <b><em>"Every error is a lesson, every project is an opportunity, and every line of code is a step toward excellence."</em></b>
 </p>
 
 
-<!-- <h1 align="center">Hi 👋, I'm Subhasish Jena</h1>
+ <h1 align="center">Hi 👋, I'm Subhasish Jena</h1>
 <h3 align="center">AI/ML Engineer | GenAI Engineer | Full Stack Developer</h3>
-
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" 
-     alt="animated gif" 
-     width="300" 
-     align="right" />
      
 <ul>
   <li>🌱 I’m currently learning <strong>Data Structure and Algorithm</strong></li>
@@ -59,7 +54,7 @@
 </p>
 
 <br>
-<!--
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=subhasish20&theme=github-dark)
 ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=subhasish20&theme=github_dark)<br>
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=subhasish20&theme=github_dark)
@@ -69,7 +64,7 @@
   <img src="./dennis-ritchie-quote.jpeg" alt="Dennis Ritchie programming quote" width="850">
 </p>
 
-
+-->
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=subhasish20&theme=github_dark" alt="Repos per Language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=subhasish20&theme=github_dark" alt="GitHub Stats" />
