@@ -12,7 +12,7 @@
      alt="animated gif" 
      width="300" 
      align="right" />
-
+     
 <ul>
   <li>🌱 I’m currently learning <strong>Data Structure and Algorithm</strong></li>
   <li>👯 I’m looking to collaborate on <strong>Machine Learning</strong></li>
