@@ -56,7 +56,8 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=subhasish20&theme=github_dark" alt="Repos per Language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=subhasish20&theme=github_dark" alt="GitHub Stats" />
 </p>
-
+<!--
 <p align="center">
   <img src="./dennis-ritchie-quote.jpeg" alt="Dennis Ritchie programming quote" width="850">
 </p>
+-->
