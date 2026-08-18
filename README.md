@@ -1,22 +1,19 @@
+<h1 align="lest">Hello......👋</h1>
+
 <!--
+<h3 align="center">AI/ML Engineer | GenAI Engineer | Full Stack Developer</h3> 
+-->
 
-<p align="center">
-  <b><em>"Every error is a lesson, every project is an opportunity, and every line of code is a step toward excellence."</em></b>
-</p>
-
-
- <h1 align="center">Hi 👋, I'm Subhasish Jena</h1>
-<h3 align="center">AI/ML Engineer | GenAI Engineer | Full Stack Developer</h3>
      
 <ul>
-  <li>🌱 I’m currently learning <strong>Data Structure and Algorithm</strong></li>
-  <li>👯 I’m looking to collaborate on <strong>Machine Learning</strong></li>
-  <li>🤝 I’m looking for help with <strong>GenAI</strong></li>
-  <li>💬 Ask me about <strong>C, C++, Python, Machine Learning</strong></li>
+  <li>🌱 I’m currently learning <strong>Data Structures and Algorithm using C/C++</strong></li>
+  <li>👯 I’m looking to collaborate on <strong>GenAI Developement</strong></li>
+  <!--<li>🤝 I’m looking for help with <strong>GenAI</strong></li>-->
+  <li>💬 Ask me about <strong>C, C++, Python, ML, DL, GenAI, NLP, Java</strong></li>
 </ul>
+
+
 <div style="clear: both;"></div>
-
-
 <h3 align="left">Connect with me:</h3>
 <div align="left">
   <a href="https://www.instagram.com/bapuuuniiii/" target="_blank">
@@ -35,7 +32,6 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-
 <p align="left">
   <a href="https://en.cppreference.com/w/c"><img src="https://cdn.simpleicons.org/c/A8B9CC" height="32" /></a>
   <a href="https://isocpp.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="32" /></a>
@@ -53,19 +49,14 @@
   <a href="https://www.linux.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="32" /></a>
 </p>
 
-<br>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=subhasish20&theme=github-dark)
-![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=subhasish20&theme=github_dark)<br>
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=subhasish20&theme=github_dark)
-
+<p align="left">
+  <!--<img src="https://streak-stats.demolab.com/?user=subhasish20&theme=github-dark" alt="GitHub Streak" />-->
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=subhasish20&theme=github_dark" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=subhasish20&theme=github_dark" alt="GitHub Stats" />
+</p>
 
 <p align="center">
   <img src="./dennis-ritchie-quote.jpeg" alt="Dennis Ritchie programming quote" width="850">
-</p>
-
--->
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=subhasish20&theme=github_dark" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=subhasish20&theme=github_dark" alt="GitHub Stats" />
 </p>
